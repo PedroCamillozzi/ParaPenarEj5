@@ -1,0 +1,8 @@
+C:\Users\Pedro\source\repos\ParaPenarEj5\bin\Debug\ParaPenarEj5.exe.config
+C:\Users\Pedro\source\repos\ParaPenarEj5\bin\Debug\ParaPenarEj5.exe
+C:\Users\Pedro\source\repos\ParaPenarEj5\bin\Debug\ParaPenarEj5.pdb
+C:\Users\Pedro\source\repos\ParaPenarEj5\obj\Debug\ParaPenarEj5.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\ParaPenarEj5\obj\Debug\ParaPenarEj5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\source\repos\ParaPenarEj5\obj\Debug\ParaPenarEj5.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ParaPenarEj5\obj\Debug\ParaPenarEj5.exe
+C:\Users\Pedro\source\repos\ParaPenarEj5\obj\Debug\ParaPenarEj5.pdb
